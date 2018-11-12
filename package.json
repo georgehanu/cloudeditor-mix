@@ -1,6 +1,6 @@
 {
   "name": "cloudeditor-mix",
-  "version": "2.1.14",
+  "version": "1.0.0",
   "description": "Cloudeditor Mix is an elegant wrapper around Webpack for the 80% use case, based on Laravel-mix",
   "main": "src/index.js",
   "scripts": {
